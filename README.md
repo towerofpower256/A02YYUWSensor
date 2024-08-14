@@ -1,7 +1,7 @@
 # A02YYUWSensor
 A helper class for reading sensor data from [A02YYUW sensor modules](https://wiki.dfrobot.com/_A02YYUW_Waterproof_Ultrasonic_Sensor_SKU_SEN0311) from microcontrollers like an Arduino or ESP.
 
-[A02YYUW Sensor](docs/A02YYUW_sensor.jpg)
+![A02YYUW Sensor](docs/A02YYUW_sensor.jpg)
 
 # Usage example
 
